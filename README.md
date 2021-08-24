@@ -1,6 +1,10 @@
 # StarTrack
 Integration of ImageJ/Fiji plugins StarDist [1] and TrackMate [2,3] to accurately quantify morphological and textural characteristics while tracking nuclei over time.
 
+Submitted: Freya Molenberghs, Marlies Verschuuren, Michaël Barbier, Johannes J. Bogers, Nathalie Cools, Peter Delputte, Mario Schelhaas and Winnok H. De Vos (2021). Multiparametric image-based profiling reveals cellular heterogeneity of human papilloma pseudovirus infection kinetics.
+
+
+
 [1] Uwe Schmidt, Martin Weigert, Coleman Broaddus, and Gene Myers. Cell Detection with Star-convex Polygons. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), Granada, Spain, September 2018.
 
 [2] Tinevez, J.-Y., Perry, N., Schindelin, J., Hoopes, G. M., Reynolds, G. D., Laplantine, E., … Eliceiri, K. W. (2017). TrackMate: An open and extensible platform for single-particle tracking. Methods, 115, 80–90. doi:10.1016/j.ymeth.2016.09.016
